@@ -1,3 +1,7 @@
+# Classic Snake Game
+Developed a classic Snake game in Java, featuring responsive controls, and collision detection.
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
